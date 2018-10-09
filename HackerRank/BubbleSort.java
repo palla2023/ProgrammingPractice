@@ -33,8 +33,8 @@ public class BubbleSort
                     break;
             }
 
-            for (int k=0;k<n;k++)
-                System.out.print(a[k]+" ");
+//            for (int k=0;k<n;k++)
+//                System.out.print(a[k]+" ");
             System.out.println();
             System.out.print(count);
         }
