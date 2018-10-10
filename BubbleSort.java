@@ -11,7 +11,6 @@ public class BubbleSort
         {
             int n = sc.nextInt();
             int a[] = new int[n];
-
             for (int j=0;j<n;j++)
                 a[j] = sc.nextInt();
             for (int j=0;j<n;j++)
